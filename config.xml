@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.example"
+    version   = "2.0.0">
+
+<name>PhoneGap Login Example</name>
+
+<description>
+Lembaga Zakat Selangor Smartphone Application.
+</description>
+
+<author href="http://www.e-zakat.com.my" email="noh@e-zakat.com.my">
+Noh Bimin
+</author>
+
+<icon src="css/images/kepalalzs.png" width="72" height="72" />
+
+</widget>
